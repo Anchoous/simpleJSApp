@@ -8,7 +8,6 @@ function Student(){
     
 };
 
-
 async function File(){
     let student = new Student();
     let string = JSON.stringify(student);
